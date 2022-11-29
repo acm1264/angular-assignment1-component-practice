@@ -1,3 +1,6 @@
+# First project for Angular Udemy Course
+After creating a new project, I added in two new components, success alert and warning alert. I practiced using both exernal files for the html/css, as well as inline for creating them, and then had them both display.
+
 # AngularAssignment1ComponentPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
